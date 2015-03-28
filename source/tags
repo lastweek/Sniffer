@@ -1,0 +1,213 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARPHRD_ARCNET	sniffer.h	176;"	d
+ARPHRD_ATM2225	sniffer.h	178;"	d
+ARPHRD_ETHER	sniffer.h	174;"	d
+ARPHRD_FRELAY	sniffer.h	177;"	d
+ARPHRD_IEEE1394	sniffer.h	180;"	d
+ARPHRD_IEEE802	sniffer.h	175;"	d
+ARPHRD_STRIP	sniffer.h	179;"	d
+ARPOP_INVREPLY	sniffer.h	187;"	d
+ARPOP_INVREQUEST	sniffer.h	186;"	d
+ARPOP_NAK	sniffer.h	188;"	d
+ARPOP_REPLY	sniffer.h	183;"	d
+ARPOP_REQUEST	sniffer.h	182;"	d
+ARPOP_REVREPLY	sniffer.h	185;"	d
+ARPOP_REVREQUEST	sniffer.h	184;"	d
+Aflag	main.c	/^int Aflag   =   0;  \/\/  Application$/;"	v
+Bflag	main.c	/^int Bflag   =   0;	\/\/	Buffer size.$/;"	v
+Cflag	main.c	/^int Cflag   =   0;	\/\/	Packet Count.$/;"	v
+DNS_PORT	sniffer.h	144;"	d
+DYLIB	makefile	/^DYLIB	=	\/usr\/lib\/libpcap.A.dylib$/;"	m
+Dflag	main.c	/^int Dflag   =   0;	\/\/	list available Devices and exit.$/;"	v
+ETHERTYPE_ARP	sniffer.h	39;"	d
+ETHERTYPE_IP	sniffer.h	38;"	d
+ETHERTYPE_IPV6	sniffer.h	41;"	d
+ETHERTYPE_LEN	sniffer.h	37;"	d
+ETHERTYPE_RARP	sniffer.h	40;"	d
+ETHER_ADDR_LEN	sniffer.h	35;"	d
+ETHER_HDRLEN	sniffer.h	36;"	d
+Eflag	main.c	/^int Eflag   =   0;  \/\/  print Ethernet header.$/;"	v
+FTP_PORT	sniffer.h	140;"	d
+HTTP_PORT	sniffer.h	145;"	d
+ICMP_ECHO	print-icmp.c	67;"	d	file:
+ICMP_ECHOREPLY	print-icmp.c	46;"	d	file:
+ICMP_IREQ	print-icmp.c	77;"	d	file:
+ICMP_IREQREPLY	print-icmp.c	78;"	d	file:
+ICMP_MASKREPLY	print-icmp.c	80;"	d	file:
+ICMP_MASKREQ	print-icmp.c	79;"	d	file:
+ICMP_PARAMPROB	print-icmp.c	73;"	d	file:
+ICMP_PARAMPROB_OPTABSENT	print-icmp.c	74;"	d	file:
+ICMP_REDIRECT	print-icmp.c	62;"	d	file:
+ICMP_REDIRECT_HOST	print-icmp.c	64;"	d	file:
+ICMP_REDIRECT_NET	print-icmp.c	63;"	d	file:
+ICMP_REDIRECT_TOSHOST	print-icmp.c	66;"	d	file:
+ICMP_REDIRECT_TOSNET	print-icmp.c	65;"	d	file:
+ICMP_ROUTERADVERT	print-icmp.c	68;"	d	file:
+ICMP_ROUTERSOLICIT	print-icmp.c	69;"	d	file:
+ICMP_SOURCEQUENCH	print-icmp.c	61;"	d	file:
+ICMP_TIMXCEED	print-icmp.c	70;"	d	file:
+ICMP_TIMXCEED_INTRANS	print-icmp.c	71;"	d	file:
+ICMP_TIMXCEED_REASS	print-icmp.c	72;"	d	file:
+ICMP_TSTAMP	print-icmp.c	75;"	d	file:
+ICMP_TSTAMPREPLY	print-icmp.c	76;"	d	file:
+ICMP_UNREACH	print-icmp.c	47;"	d	file:
+ICMP_UNREACH_HOST	print-icmp.c	49;"	d	file:
+ICMP_UNREACH_HOST_PROHIB	print-icmp.c	58;"	d	file:
+ICMP_UNREACH_HOST_UNKNOWN	print-icmp.c	55;"	d	file:
+ICMP_UNREACH_ISOLATED	print-icmp.c	56;"	d	file:
+ICMP_UNREACH_NEEDFRAG	print-icmp.c	52;"	d	file:
+ICMP_UNREACH_NET	print-icmp.c	48;"	d	file:
+ICMP_UNREACH_NET_PROHIB	print-icmp.c	57;"	d	file:
+ICMP_UNREACH_NET_UNKNOWN	print-icmp.c	54;"	d	file:
+ICMP_UNREACH_PORT	print-icmp.c	51;"	d	file:
+ICMP_UNREACH_PROTOCOL	print-icmp.c	50;"	d	file:
+ICMP_UNREACH_SRCFAIL	print-icmp.c	53;"	d	file:
+ICMP_UNREACH_TOSHOST	print-icmp.c	60;"	d	file:
+ICMP_UNREACH_TOSNET	print-icmp.c	59;"	d	file:
+IPDEFTTL	sniffer.h	63;"	d
+IPPROTO_EGP	sniffer.h	80;"	d
+IPPROTO_ICMP	sniffer.h	76;"	d
+IPPROTO_IGMP	sniffer.h	77;"	d
+IPPROTO_IPV4	sniffer.h	78;"	d
+IPPROTO_IPV6	sniffer.h	83;"	d
+IPPROTO_PIGP	sniffer.h	81;"	d
+IPPROTO_TCP	sniffer.h	79;"	d
+IPPROTO_UDP	sniffer.h	82;"	d
+IPTOSBUFFERS	main.c	389;"	d	file:
+IPTOS_LOWDELAY	sniffer.h	69;"	d
+IPTOS_RELIABILITY	sniffer.h	71;"	d
+IPTOS_THROUGHPUT	sniffer.h	70;"	d
+IPVERSION	sniffer.h	60;"	d
+IP_DF	sniffer.h	94;"	d
+IP_HL	sniffer.h	89;"	d
+IP_MAXPACKET	sniffer.h	61;"	d
+IP_MF	sniffer.h	95;"	d
+IP_MSS	sniffer.h	64;"	d
+IP_OFFMASK	sniffer.h	96;"	d
+IP_V	sniffer.h	88;"	d
+Iflag	main.c	/^int Iflag   =   0;  \/\/	Interface specific.$/;"	v
+MAXTTL	sniffer.h	62;"	d
+Mflag	main.c	/^int Mflag   =   0;  \/\/  proMiscuous$/;"	v
+OBJECT	makefile	/^OBJECT	=	sniffer$/;"	m
+Rflag	main.c	/^int Rflag   =   0;	\/\/	Read packet from file.$/;"	v
+SMTP_PORT	sniffer.h	143;"	d
+SRC	makefile	/^SRC		=	main.c print-arp.c print-ether.c print-http.c print-icmp.c print-ip.c print-rarp.c print-tcp.c print-udp.c$/;"	m
+SSH_PORT	sniffer.h	141;"	d
+TELNET_PORT	sniffer.h	142;"	d
+TH_ACK	sniffer.h	137;"	d
+TH_FIN	sniffer.h	133;"	d
+TH_OFF	sniffer.h	128;"	d
+TH_PUSH	sniffer.h	136;"	d
+TH_RST	sniffer.h	135;"	d
+TH_SYN	sniffer.h	134;"	d
+TH_URG	sniffer.h	138;"	d
+Vflag	main.c	/^int Vflag   =   0;  \/\/  Verbose print IP hdr.$/;"	v
+Wflag	main.c	/^int Wflag   =   0;	\/\/	Write packet to file.$/;"	v
+ar_hln	sniffer.h	/^    uint8_t     ar_hln;         \/* length of hardware address *\/$/;"	m	struct:arp_pkthdr
+ar_hrd	sniffer.h	/^    uint16_t    ar_hrd;         \/* format of hardware address *\/$/;"	m	struct:arp_pkthdr
+ar_op	sniffer.h	/^    uint16_t    ar_op;          \/* op *\/$/;"	m	struct:arp_pkthdr
+ar_pln	sniffer.h	/^    uint8_t     ar_pln;         \/* length of protocol address *\/$/;"	m	struct:arp_pkthdr
+ar_pro	sniffer.h	/^    uint16_t    ar_pro;         \/* format of protocol address *\/$/;"	m	struct:arp_pkthdr
+ar_sha	sniffer.h	/^	uint8_t     ar_sha[8];      \/* sender hardware address *\/$/;"	m	struct:arp_pkthdr
+ar_spa	sniffer.h	/^	struct in_addr	ar_spa;         \/* sender protocol address *\/$/;"	m	struct:arp_pkthdr	typeref:struct:arp_pkthdr::in_addr
+ar_tha	sniffer.h	/^	uint8_t     ar_tha[8];      \/* target hardware address *\/$/;"	m	struct:arp_pkthdr
+ar_tpa	sniffer.h	/^	struct in_addr	ar_tpa;         \/* target protocol address *\/$/;"	m	struct:arp_pkthdr	typeref:struct:arp_pkthdr::in_addr
+arp_pkthdr	sniffer.h	/^struct  arp_pkthdr {$/;"	s
+buffer_size	main.c	/^static int buffer_size	=	65535;$/;"	v	file:
+copy_argv	main.c	/^char *copy_argv(char **argv) {$/;"	f
+err	main.c	/^void err(char *s) {$/;"	f
+ether_dhost	sniffer.h	/^	uint8_t		ether_dhost[ETHER_ADDR_LEN];$/;"	m	struct:ether_header
+ether_header	sniffer.h	/^struct	ether_header {$/;"	s
+ether_shost	sniffer.h	/^	uint8_t		ether_shost[ETHER_ADDR_LEN];$/;"	m	struct:ether_header
+ether_type	sniffer.h	/^	uint16_t	ether_type;\/\/typedef unsigned short uint16_t;$/;"	m	struct:ether_header
+ether_type	sniffer.h	/^    uint16_t    ether_type;$/;"	m	struct:pkt_info
+ether_type_name	sniffer.h	/^    char        *ether_type_name;$/;"	m	struct:pkt_info
+http	sniffer.h	/^struct http {$/;"	s
+icd_id	print-icmp.c	/^			uint16_t icd_id;$/;"	m	struct:icmp::__anon1::ih_idseq	file:
+icd_seq	print-icmp.c	/^			uint16_t icd_seq;$/;"	m	struct:icmp::__anon1::ih_idseq	file:
+icmp	print-icmp.c	/^struct icmp {$/;"	s	file:
+icmp_cksum	print-icmp.c	/^	uint16_t icmp_cksum;	\/* ones complement cksum of struct *\/$/;"	m	struct:icmp	file:
+icmp_code	print-icmp.c	/^	uint8_t  icmp_code;		\/* type sub code *\/$/;"	m	struct:icmp	file:
+icmp_data	print-icmp.c	40;"	d	file:
+icmp_dun	print-icmp.c	/^	} icmp_dun;$/;"	m	struct:icmp	typeref:union:icmp::__anon2	file:
+icmp_gwaddr	print-icmp.c	18;"	d	file:
+icmp_hun	print-icmp.c	/^	} icmp_hun;$/;"	m	struct:icmp	typeref:union:icmp::__anon1	file:
+icmp_id	print-icmp.c	19;"	d	file:
+icmp_ip	print-icmp.c	38;"	d	file:
+icmp_mask	print-icmp.c	39;"	d	file:
+icmp_otime	print-icmp.c	35;"	d	file:
+icmp_pptr	print-icmp.c	17;"	d	file:
+icmp_rtime	print-icmp.c	36;"	d	file:
+icmp_seq	print-icmp.c	20;"	d	file:
+icmp_ttime	print-icmp.c	37;"	d	file:
+icmp_type	print-icmp.c	/^	uint8_t  icmp_type;		\/* type of message, see below *\/$/;"	m	struct:icmp	file:
+icmp_void	print-icmp.c	21;"	d	file:
+id_data	print-icmp.c	/^		uint8_t id_data[1];$/;"	m	union:icmp::__anon2	file:
+id_ip	print-icmp.c	/^		struct id_ip  {$/;"	s	union:icmp::__anon2	file:
+id_ip	print-icmp.c	/^		} id_ip;$/;"	m	union:icmp::__anon2	typeref:struct:icmp::__anon2::id_ip	file:
+id_mask	print-icmp.c	/^		uint32_t id_mask;$/;"	m	union:icmp::__anon2	file:
+id_ts	print-icmp.c	/^		struct id_ts {$/;"	s	union:icmp::__anon2	file:
+id_ts	print-icmp.c	/^		} id_ts;$/;"	m	union:icmp::__anon2	typeref:struct:icmp::__anon2::id_ts	file:
+idi_ip	print-icmp.c	/^			struct ip idi_ip;$/;"	m	struct:icmp::__anon2::id_ip	typeref:struct:icmp::__anon2::id_ip::ip	file:
+ifprint	main.c	/^static void ifprint(pcap_if_t *d) {$/;"	f	file:
+ih_gwaddr	print-icmp.c	/^		struct in_addr ih_gwaddr;	\/* ICMP_REDIRECT *\/$/;"	m	union:icmp::__anon1	typeref:struct:icmp::__anon1::in_addr	file:
+ih_idseq	print-icmp.c	/^		struct ih_idseq {$/;"	s	union:icmp::__anon1	file:
+ih_idseq	print-icmp.c	/^		} ih_idseq;$/;"	m	union:icmp::__anon1	typeref:struct:icmp::__anon1::ih_idseq	file:
+ih_pptr	print-icmp.c	/^		uint8_t ih_pptr;			\/* ICMP_PARAMPROB *\/$/;"	m	union:icmp::__anon1	file:
+ih_void	print-icmp.c	/^		uint32_t ih_void;$/;"	m	union:icmp::__anon1	file:
+ip	sniffer.h	/^struct ip {$/;"	s
+ip_dst	sniffer.h	/^	struct in_addr    ip_src,ip_dst;      \/* source and dest address *\/$/;"	m	struct:ip	typeref:struct:ip::
+ip_id	sniffer.h	/^	uint16_t	ip_id;              \/* identification *\/$/;"	m	struct:ip
+ip_len	sniffer.h	/^	uint16_t	ip_len;             \/* total length *\/$/;"	m	struct:ip
+ip_off	sniffer.h	/^	uint16_t	ip_off;             \/* fragment offset field *\/$/;"	m	struct:ip
+ip_p	sniffer.h	/^	uint8_t		ip_p;               \/* protocol *\/$/;"	m	struct:ip
+ip_src	sniffer.h	/^	struct in_addr    ip_src,ip_dst;      \/* source and dest address *\/$/;"	m	struct:ip	typeref:struct:ip::in_addr
+ip_sum	sniffer.h	/^	uint16_t	ip_sum;             \/* checksum *\/$/;"	m	struct:ip
+ip_tos	sniffer.h	/^	uint8_t		ip_tos;             \/* type of service *\/$/;"	m	struct:ip
+ip_ttl	sniffer.h	/^	uint8_t		ip_ttl;             \/* time to live *\/$/;"	m	struct:ip
+ip_vhl	sniffer.h	/^	uint8_t		ip_vhl;             \/* header length, version *\/$/;"	m	struct:ip
+iphdr	sniffer.h	/^    struct  ip  *iphdr;$/;"	m	struct:pkt_info	typeref:struct:pkt_info::ip
+iptos	main.c	/^static char *iptos(bpf_u_int32 in) {$/;"	f	file:
+its_otime	print-icmp.c	/^			uint32_t its_otime;$/;"	m	struct:icmp::__anon2::id_ts	file:
+its_rtime	print-icmp.c	/^			uint32_t its_rtime;$/;"	m	struct:icmp::__anon2::id_ts	file:
+its_ttime	print-icmp.c	/^			uint32_t its_ttime;$/;"	m	struct:icmp::__anon2::id_ts	file:
+main	main.c	/^int main(int argc, char **argv) {$/;"	f
+o	sniffer.h	/^    int o;$/;"	m	struct:http
+packet_count	main.c	/^static int packet_count	=	-1;$/;"	v	file:
+pd	main.c	/^static pcap_t *pd;$/;"	v	file:
+pkt_info	sniffer.h	/^struct  pkt_info {$/;"	s
+pkt_info_p	sniffer.h	/^typedef struct pkt_info *pkt_info_p;$/;"	t	typeref:struct:pkt_info
+print_arp	print-arp.c	/^void print_arp(pkt_info_p pi, const u_char *bytes) {$/;"	f
+print_ether	print-ether.c	/^void print_ether(pkt_info_p pi, const u_char *bytes) {$/;"	f
+print_http	print-http.c	/^void print_http(pkt_info_p pi, const u_char *bytes) {$/;"	f
+print_icmp	print-icmp.c	/^void print_icmp(pkt_info_p pi, const u_char *bytes){$/;"	f
+print_ip	print-ip.c	/^void print_ip(pkt_info_p pi, const u_char *bytes) {$/;"	f
+print_packet	main.c	/^void print_packet(u_char *user, const struct pcap_pkthdr *h, const u_char *bytes){$/;"	f
+print_rarp	print-rarp.c	/^void print_rarp(pkt_info_p pi, const u_char *bytes) {$/;"	f
+print_tcp	print-tcp.c	/^void print_tcp(pkt_info_p pi, const u_char *bytes){$/;"	f
+print_udp	print-udp.c	/^void print_udp(pkt_info_p pi, const u_char *bytes){$/;"	f
+printalldevs	main.c	/^void printalldevs() {$/;"	f
+tcp	sniffer.h	/^struct tcp {$/;"	s
+tcp_seq	sniffer.h	/^typedef uint32_t tcp_seq;$/;"	t
+tcphdr	sniffer.h	/^    struct  tcp *tcphdr;$/;"	m	struct:pkt_info	typeref:struct:pkt_info::tcp
+th_ack	sniffer.h	/^	tcp_seq		th_ack;			\/* acknowledgement number *\/$/;"	m	struct:tcp
+th_dport	sniffer.h	/^	uint16_t	th_dport;		\/* destination port *\/$/;"	m	struct:tcp
+th_flags	sniffer.h	/^	uint8_t		th_flags;$/;"	m	struct:tcp
+th_offx2	sniffer.h	/^	uint8_t		th_offx2;		\/* data offset, rsvd *\/$/;"	m	struct:tcp
+th_seq	sniffer.h	/^	tcp_seq		th_seq;			\/* sequence number *\/$/;"	m	struct:tcp
+th_sport	sniffer.h	/^	uint16_t	th_sport;		\/* source port *\/$/;"	m	struct:tcp
+th_sum	sniffer.h	/^	uint16_t	th_sum;			\/* checksum *\/$/;"	m	struct:tcp
+th_urp	sniffer.h	/^	uint16_t	th_urp;			\/* urgent pointer *\/$/;"	m	struct:tcp
+th_win	sniffer.h	/^	uint16_t	th_win;			\/* window *\/$/;"	m	struct:tcp
+time_out	main.c	/^static int time_out     =   1000;$/;"	v	file:
+udp	sniffer.h	/^struct udp {$/;"	s
+uh_dport	sniffer.h	/^	uint16_t	uh_dport;		\/* destination port *\/$/;"	m	struct:udp
+uh_sport	sniffer.h	/^	uint16_t	uh_sport;		\/* source port *\/$/;"	m	struct:udp
+uh_sum	sniffer.h	/^	uint16_t	uh_sum;			\/* udp checksum *\/$/;"	m	struct:udp
+uh_ulen	sniffer.h	/^	uint16_t	uh_ulen;		\/* udp length *\/$/;"	m	struct:udp
+usage	main.c	/^void usage() {$/;"	f
