@@ -1,4 +1,5 @@
-sniffer
+# Sniffer (Fun Course Project)
+### Copyright (c) 2015 Yizhou Shan \<ys@purdue.edu\>. All rights reserved.
 =======
 
 This is a sample sniffer based on Libpcap, which is based on Berkeley Packet Filter. I extract some code from Libpcap and tcpdump. By the way, it helps me a lot after i read the source code of tcpdump.
